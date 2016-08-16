@@ -7,7 +7,6 @@ This web application has a mobile and other devices responsive design.
 
 This application will not work upon running, it requires our custom APIs which are hosted at this place https://github.com/mitulap/shopping-cart
 
-Feel free to contact me at mitulpatel.hsd@gmail.com if you have any doubts.
 
 
 ### Preconditions
@@ -18,4 +17,5 @@ Feel free to contact me at mitulpatel.hsd@gmail.com if you have any doubts.
 
 
 Short URL : http://bit.ly/1OuDnAe
+# blackEbay
 # blackEbay
