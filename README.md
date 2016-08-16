@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blackEbay
 This is a front-end application for cmpe281 - cloud technologies class.
 
@@ -18,4 +19,8 @@ This application will not work upon running, it requires our custom APIs which a
 
 Short URL : http://bit.ly/1OuDnAe
 # blackEbay
+# blackEbay
+=======
+# blackEbay
+>>>>>>> 10b8ff406622fd3e65767c3ab067b2489edb22e5
 # blackEbay
